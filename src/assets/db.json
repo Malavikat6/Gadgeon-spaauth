@@ -29,6 +29,13 @@
       "password": "123456",
       "repeatpassword": "123456",
       "id": 3
+    },
+    {
+      "name": "Namitha",
+      "email": "nami@gmail",
+      "password": "asdf",
+      "repeatpassword": "asdf",
+      "id": 4
     }
   ]
 }
